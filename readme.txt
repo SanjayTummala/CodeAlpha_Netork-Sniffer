@@ -25,5 +25,5 @@ This Python script captures and analyzes raw network packets from a network inte
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sanjaytummala/CodeAlpha_Network-sniffer/
+   git clone https://github.com/SanjayTummala/CodeAlpha_Netork-Sniffer/blob/main/main.py
    cd main.py
